@@ -1,6 +1,5 @@
 # filetasks
 
-# task
 Basic command line to-do application.
 
 ## How does it work?
